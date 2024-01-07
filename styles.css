@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'subscriber';
+  src: url(Fonts/SUBSCRIBER-Regular.otf);
+  font-style: normal;
+  font-weight: 100; }
+h1 {
+  font-family: subscriber;
+  font-weight: 100;
+  font-size: 150pt; }
+
+h2 {
+  font-family: subscriber;
+  font-weight: 50;
+  font-size: 100pt; }
+
+h3 {
+  font-family: subscriber;
+  font-weight: 50;
+  font-size: 50pt; }
+
+*.main {
+  color: #b9d07f;
+  background: #b9d07f;
+  border: #b9d07f; }
+  *.main h2 {
+    font: subscriber;
+    color: white; }
+
+*.olshausen {
+  color: #FF8C61;
+  background: #FF8C61;
+  border: #FF8C61; }
+  *.olshausen h2 {
+    font: subscriber;
+    color: white; }
+
+*.dillin {
+  color: #24729b;
+  background: #24729b;
+  border: #24729b; }
+  *.dillin h2 {
+    font: subscriber;
+    color: white; }
+
+*.feller {
+  color: #6d9cf3;
+  background: #6d9cf3;
+  border: #6d9cf3; }
+  *.feller h2 {
+    font: subscriber;
+    color: white; }
+
+*.gomez {
+  color: #8a68d4;
+  background: #8a68d4;
+  border: #8a68d4; }
+  *.gomez h2 {
+    color: white; }
+
+*.ivry {
+  color: #83d3bb;
+  background: #83d3bb;
+  border: #83d3bb; }
+  *.ivry h2 {
+    color: white; }
+
+*.jagust {
+  color: #d4a407;
+  background: #d4a407;
+  border: #d4a407; }
+  *.jagust h2 {
+    color: white; }
+
+*.ji {
+  color: #bada56;
+  background: #bada56;
+  border: #bada56; }
+  *.ji h2 {
+    color: white; }
+
+*.wallis {
+  color: #e01678;
+  background: #e01678;
+  border: #e01678; }
+  *.wallis h2 {
+    color: white; }
+
+.wallis-header-card {
+  font: subscriber;
+  background: #e01678; }
+  .wallis-header-card h2 {
+    color: white; }
+
+.bar {
+  height: 1px;
+  background: black; }
+
+/*# sourceMappingURL=styles.css.map */
